@@ -39,4 +39,3 @@ Lý do: Ý tưởng đổi sang giới hạn theo compute có cơ sở (chi phí
 
 ## Ghi chú
 - Đây là phân tích từ tài liệu công khai, không có dữ liệu nội bộ của Cursor.
-- Không có thay đổi code hay file nào khác ngoài file kế hoạch này.
