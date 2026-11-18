@@ -1,7 +1,5 @@
 # Case Cursor (gói Pro):
 
-## Context
-Người dùng muốn trả lời phiếu hoạt động nhóm (4 bước: Câu 1 → Câu 3 → Nhận kết cục → Câu 2 → Sticky) với case Cursor, gói Pro. Đây là bài phân tích, không đụng code. Case được hiểu là đợt Cursor đổi gói Pro $20/tháng từ giới hạn số request sang giới hạn theo compute (tháng 6/2025), gây phản ứng dữ dội từ người dùng.
 
 ## Bối cảnh (nguồn)
 - 16/06/2025: Pro chuyển từ giới hạn request sang giới hạn compute; thêm gói Ultra $200/tháng. Chỉ "auto mode" là không giới hạn cho Pro. ([Simon Willison](https://simonwillison.net/2025/Jul/5/cursor-clarifying-our-pricing))
