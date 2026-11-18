@@ -30,8 +30,12 @@ Lý do: Ý tưởng đổi sang giới hạn theo compute có cơ sở (chi phí
 - 2–3 tờ vàng (còn thiếu): thiếu thử nghiệm nhóm nhỏ trước khi áp dụng toàn bộ; thiếu bảng usage rõ ràng trong app ngay từ đầu; thiếu thông báo và thời gian chuyển đổi cho người dùng hiện tại.
 - 1 tờ xanh (làm tốt): thừa nhận lỗi công khai, nhanh chóng hoàn tiền và cam kết cải thiện minh bạch.
 
-## Gợi ý cho "Cuối phiếu nhóm"
-Hỏi nhóm: quyết định của nhóm có khớp với điều đã xảy ra không? Nếu khác, khác hướng nào (ví dụ: nhóm chọn "Dừng" hoặc "Làm thêm rồi quyết lại") và nhóm có đổi quyết định khi biết kết cục không.
+##  Cuối phiếu nhóm
+- **Đánh giá: Quyết định thay đổi mô hình định giá của Cursor có cơ sở về mặt kinh tế và kỹ thuật, nhưng quá trình triển khai chưa quản trị tốt rủi ro về trải nghiệm và niềm tin khách hàng.**
+
+- **Bài học rút ra: Một quyết định có lý do hợp lý vẫn có thể dẫn đến kết quả tiêu cực nếu thiếu thử nghiệm, truyền thông minh bạch và cơ chế kiểm soát rủi ro.**
+
+- **Quyết định cuối cùng của nhóm: Hướng 2 – Đi tiếp ở phạm vi hẹp hơn, có điều kiện.**
 
 ## Ghi chú
 - Đây là phân tích từ tài liệu công khai, không có dữ liệu nội bộ của Cursor.
